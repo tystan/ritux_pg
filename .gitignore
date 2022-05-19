@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# ADDED: data testing files
+/data/test/*
+README.html
