@@ -2,14 +2,14 @@
 
 
 Repository containing **line data** and **code** to produce Table 2 and Figure 1 of the article
-[Hillen *et al.* (2022). *Rituximab and Pyoderma Gangrenosum. An investigation of risk disproportionality using a systems biology-informed approach in the FAERS Database*.](https://doi-link-to-come-com).
+[Hillen *et al.* (2022). *Rituximab and Pyoderma Gangrenosum. An investigation of risk disproportionality using a systems biology-informed approach in the FAERS Database*.](https://doi.org/10.1007/s40801-022-00322-6).
 
 
 
 ## How to run code
 
 The following steps will allow you to run `analyse_ritux_pg.R` to reproduce Table 2 and Figure 1 of
-[Hillen *et al.* (2022)](https://doi-link-to-come-com):
+[Hillen *et al.* (2022)](https://doi.org/10.1007/s40801-022-00322-6):
 
 * Make sure you have [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) installed.
 * Download the `ritux_pg.zip` file (on the [repo page](https://github.com/tystan/ritux_pg): green `Code` button `->` `Download ZIP` button).
